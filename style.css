@@ -80,9 +80,12 @@ nav {
 
 .pf-picture {
   width: 920px;
+  margin-left: auto;
+  margin-right: auto;
   padding-top: 30px;
   padding-bottom: 90px;
   display: flex;
+  flex-flow: row wrap;
 }
 
 .picture-box{
@@ -120,6 +123,68 @@ nav {
 .picture-box:nth-child(6) {
   background-image: url(img/webcamp-mother.png);
   margin: 0 0 0 0;
+}
+
+.feature {
+  width: 100%;
+}
+
+.ft-title {
+  padding-top: 90px;
+  padding-bottom: 8px;
+  font-size: 32px;
+  color: #000000;
+  text-align: center;
+}
+
+.ft-line {
+  height: 3px;
+  width: 70px;
+  background-color: #EC715F;
+  margin: 0 auto 0 auto;
+}
+
+.ft-text {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 16px;
+  color: #000000;
+  text-align: center;
+}
+
+.ft-contents {
+  width: 980px;
+  margin:  0 auto 90px auto;
+  display: flex;
+  flex: row wrap;
+}
+
+.ft-contain {
+  width: 320px;
+  text-align: center;
+}
+
+.ft-contain:nth-child(1) {
+  margin: 0 10px 0 0;
+}
+
+.ft-contain:nth-child(2) {
+  margin: 0 10px 0 0;
+}
+
+.ft-contain:nth-child(3) {
+  margin: 0 0 0 0;
+}
+
+.contain-title {
+  font-size: 20px;
+  color: #000000;
+  padding: 10px 0 10px 0;
+}
+
+.contain-text {
+  font-size: 16px;
+  color: #000000;
 }
 
 footer {
