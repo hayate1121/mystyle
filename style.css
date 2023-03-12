@@ -215,6 +215,40 @@ nav {
   text-align: center;
 }
 
+.profile-contents {
+  width: 1024px;
+}
+
+.profile-image {
+  width: 512px;
+  background-image: url(img/my-icon.jpg);
+}
+
+.profile-contain {
+  width: 512px;
+  color: #000000;
+  padding-bottom: 90px;
+}
+
+.name {
+  font-size: 20px;
+  padding-bottom: 5px;
+}
+
+.contain-text {
+  font-size: 16px;
+  padding-bottom: 20px;
+}
+
+.skill {
+  font-size: 20px;
+  padding-bottom: 5px;
+}
+
+.profile-skill {
+  font-size: 16px;
+}
+
 footer {
   height: 60px;
   width: 100%;
