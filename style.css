@@ -217,15 +217,22 @@ nav {
 
 .profile-contents {
   width: 1024px;
+  display: flex;
+  
 }
 
 .profile-image {
-  width: 512px;
+  width: 50%;
+}
+
+.face {
+  height: 250px;
+  width: 250px;
   background-image: url(img/my-icon.jpg);
 }
 
 .profile-contain {
-  width: 512px;
+  width: 50%;
   color: #000000;
   padding-bottom: 90px;
 }
