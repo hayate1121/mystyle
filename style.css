@@ -251,12 +251,12 @@ nav {
   font-size: 16px;
 }
 
-.contact{
+.contact {
   width: 800px;
   margin: 0 auto 0 auto;
 }
 
-.contact-title{
+.contact-title {
   text-align: center;
   padding-top: 90px;
   padding-bottom: 8px;
@@ -264,7 +264,12 @@ nav {
   color: #000000;
 }
 
-.contact-text{
+.contact-text {
+  margin: 30px auto 30px auto;
+  text-align: center;
+}
+
+.contact-contain {
   
 }
 
