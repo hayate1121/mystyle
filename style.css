@@ -270,7 +270,11 @@ nav {
 }
 
 .contact-contain {
-  
+  display: flex;
+}
+
+.contact-left {
+  width: 400px;
 }
 
 footer {
