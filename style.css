@@ -271,10 +271,17 @@ nav {
 
 .contact-contain {
   display: flex;
+  margin: 0 auto 90px auto;
 }
 
 .contact-left {
   width: 400px;
+  padding: 0 auto 0 auto;
+}
+
+.contact-right {
+  width: 400px;
+  padding: 0 auto 0 auto;
 }
 
 footer {
