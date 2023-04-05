@@ -276,12 +276,43 @@ nav {
 
 .contact-left {
   width: 400px;
-  padding: 0 auto 0 auto;
+}
+
+.left-group {
+  margin: 0 auto 0 auto;
+  width: 130px;
 }
 
 .contact-right {
   width: 400px;
   padding: 0 auto 0 auto;
+}
+
+.mail {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.address {
+  margin-bottom: 20px;
+}
+
+.tel {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.tel-number {
+  
+}
+
+.right-group {
+  width: 170px;
+  margin: 0 auto 0 auto;
+}
+
+.sns {
+  font-size: 20px;
 }
 
 footer {
