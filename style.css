@@ -313,7 +313,14 @@ nav {
 
 .sns {
   font-size: 20px;
+  margin-bottom: 5px;
 }
+
+.sns-icon {
+  
+}
+
+
 
 footer {
   height: 60px;
